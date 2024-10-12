@@ -6,7 +6,11 @@ news aggregator rust api using lambda and news api
 
 Query:
 ```
-https://your-lambda-function-url.amazonaws.com/?query=tesla&news_api_key=your_news_api_key_here
+https://your-lambda-function-url.amazonaws.com/
+{
+  "query": "string",
+  "news_api_key": "string"
+}
 ```
 
 Output:
