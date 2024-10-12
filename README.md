@@ -1,8 +1,8 @@
-# News Aggregator Lambda Function Using Rust
+# news aggregator rust lambda
 
-This project is a serverless news aggregator Rust API using AWS Lambda and the News API.
+news aggregator rust api using lambda and news api
 
-## Example Query and Output
+## Usage
 
 Query:
 ```
