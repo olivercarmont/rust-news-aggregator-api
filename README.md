@@ -30,7 +30,7 @@ Output:
                 "publishedAt": "2024-10-09T12:30:00Z",
                 "publisher": "Wired"
             },
-            // ... more articles ...
+            ... more articles ...
         ]
     }
 }
