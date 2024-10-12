@@ -1,4 +1,4 @@
-# news aggregator rust lambda
+# news aggregator lambda function using rust
 
 news aggregator rust api using lambda and news api
 
