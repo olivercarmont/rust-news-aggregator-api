@@ -43,7 +43,7 @@ Output:
    - Sign up at [newsapi.org](https://newsapi.org) to get an API key.
 
 3. **Lambda Function**:
-   - Use this tutorial to set up your lambda function utilising Rust:
+   - Use this tutorial to set up your lambda function that uses Rust:
    [Deploy Rust Lambda functions with .zip file archives](https://docs.aws.amazon.com/lambda/latest/dg/rust-package.html)
 
 4. **IAM Permissions**: Add SSM read permissions to your Lambda function's role.
